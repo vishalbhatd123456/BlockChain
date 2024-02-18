@@ -1,0 +1,9 @@
+Fingerprint - identifier for humans
+
+Adolodge Effect - even an emty hash has different hash and a small mark shall spit out the different hash
+
+Requirement of Hashing Algoritms:
+
+1) One Way -> cannot reverse engineer the hash to understand the document in itself
+
+2) Deterministic -> same document - 
